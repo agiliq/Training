@@ -13,12 +13,11 @@ Getting started:
 * Clone the repository to your local machine from https://github.com/gregmalcolm/python_koans.
 * Before you do step one, make sure Python is installed in your local machine.
 * In this repository you will find two versions of python, python 2 and python 3. You can chose the version you are comfortable with.
-* If you are fixing the test case for python 2, then cd to python2 and run 
-    
-    python contemplate_koans.py
+* If you are fixing the test case for python 2, then cd to python2 and run python contemplate_koans.py
 * Create a github repository and keep pushing your code to this repo as you progress.
 
-
+-----
+## Tango with Django
 
 Now that you are comfortable with Python, lets learn Django.
 
