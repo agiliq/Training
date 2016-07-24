@@ -16,29 +16,37 @@ Getting started:
 * If you are fixing the test case for python 2, then cd to python2 and run python contemplate_koans.py
 * Create a github repository and keep pushing your code to this repo as you progress.
 
+Day 1: Start with Python Koans and finish up to 15 lessons.
+
+Day 2: Continue with koans and finish up to 30 lessons.
+
+Day 3: Finish the remaining koans.
+
+Day 4: Set up [CircleCi](https://circleci.com/) for the corresponding github repoistory.
+
 -----
+
+## Django official documentation
+
+[Django's](https://docs.djangoproject.com/en/1.9/) official documentation is the best way to understand django.
+
+Day 5: Start with the django [tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01/), but it is recommended to undertsand creating virtual environment for every project you create. Read this [Creating virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/). Finish till tutorial 2.
+
+Day 6: Finish tutorial 3 and 4
+
+Day 7: Complete the remaining tutorials.
+
+-----
+
+By this time, you will have enough knowledge in django to complete one more tutorial.
+
 ## Tango with Django
 
-Now that you are comfortable with Python, lets learn Django.
+Day 8 - 11: Try to read through this documentation [Tango with Django](http://www.tangowithdjango.com/).
 
-**Django** is a python framework for building efficient web applications, you can find more about it here https://www.djangoproject.com/
+Day 12: Set up [Travis CI](https://travis-ci.org/) and make the build pass for the repository you created for Rango project.
 
-now your next task is to work through this Django tutorial http://www.tangowithdjango.com/
+Day 13 - 14: Learn about [Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) and deploy your app in heroku.
 
-You will learn the following things from this documentation
 
-* Setup a development environment - including how to use the terminal, the Pip installer, how to work with Git, etc.
-* Setup a Django project and create a basic Django application.
-* Configure the Django project to serve static media and other media files.
-* Work with Django’s Model-View-Template design pattern.
-* Create database models and use the object relational mapping functionality provided by Django.
-* Create forms that can utilise your database models to create dynamically generated webpages.
-* Use the User Authentication services provided by Django.
-* Incorporate external services into the application.
-* Include Cascading Styling Sheets (CSS) and JavaScript within a web application.
-* Design and apply CSS to improve the look and feel of the web application.
-* Work with cookies and sessions with Django.
-* Include more advanced functionality like AJAX into your application.
-
-Again create another github repository and keep pushing your commits as you progress through the documentation
 
