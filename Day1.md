@@ -1,4 +1,4 @@
-You will learn the following things in day 1:
+You should learn the following things on day 1:
 
 ### about_asserts.py
 ----
