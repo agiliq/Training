@@ -16,7 +16,7 @@ Getting started:
 * If you are fixing the test case for python 2, then cd to python2 and run python contemplate_koans.py
 * Create a github repository and keep pushing your code to this repo as you progress.
 
-Day 1: Start with Python Koans and finish up to 15 lessons.
+[Day 1](https://github.com/agiliq/Training/blob/master/Day1.md): Start with Python Koans and finish up to 15 lessons.
 
 Day 2: Continue with koans and finish up to 30 lessons.
 
