@@ -6,3 +6,4 @@ Continue with Tango with Django
 * [JQuery and Django](http://www.tangowithdjango.com/book17/chapters/jquery.html)
 * [AJAX in Django with JQuery](http://www.tangowithdjango.com/book17/chapters/ajax.html)
 * [Automated Testing](http://www.tangowithdjango.com/book17/chapters/test.html)
+* Push your project to github
