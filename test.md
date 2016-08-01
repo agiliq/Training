@@ -17,6 +17,3 @@ Complete the following lessons from https://github.com/gregmalcolm/python_koans
 * about_inheritance.py
 * about_iteration.py
 
-### Things you're working on
-
-Python koans
